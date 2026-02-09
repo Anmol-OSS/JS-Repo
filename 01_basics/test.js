@@ -7,3 +7,5 @@ accountState = "Maharashtra"
 
 console.log(accountId);
 console.log(accountEmail);
+
+console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
