@@ -4,8 +4,9 @@ let accountEmail = "mailanmolsinghrathore@gmail.com"
 var accountPassword = "12345678"
 accountCity = "Pune"
 accountState = "Maharashtra"
+state = null
 
 console.log(accountId);
 console.log(accountEmail);
 
-console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
+console.table([accountId, accountEmail, accountPassword, accountCity, accountState, state])
